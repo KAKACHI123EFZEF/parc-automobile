@@ -23,7 +23,9 @@ export default function Login() {
                 </CardFooter>
             </Card>
             <p>iehierhgierhefzfzejo</p>
+
             <p>zaki</p>
+            <p>hicham</p>
         </div>
     );
 }
