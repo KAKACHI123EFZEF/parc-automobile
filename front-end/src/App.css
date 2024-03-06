@@ -1,0 +1,50 @@
+#email {
+    font-weight: bold;
+    font-weight: 600;
+}
+
+#pass {
+    font-weight: bold;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+#inp1 {
+    font-size: 14px;
+    width: 92%;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: 6px 0;
+    padding: 14px;
+    border-color: #ced4da;
+}
+
+#inp2 {
+    font-size: 14px;
+    width: 92%;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: 6px 0;
+    padding: 14px;
+    border-color: #ced4da;
+}
+
+#title {
+    font-size: 29px;
+    font-weight: 700;
+}
+
+#btn {
+    display: block;
+    width: 92%;
+    padding: 10px;
+    margin-top: 40px;
+    background-color: #0969b0;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    height: 50px;
+}

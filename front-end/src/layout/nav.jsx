@@ -14,17 +14,17 @@ function Nav() {
                     />
                 </li>
                 <li className="nav-item">
-                    <Link to={"/"} className="nav-link" style={{color: '#bdd8eb'}}>
+                    <Link to={"/"} className="nav-link" style={{color: 'white'}}>
                         Home
                     </Link>
                 </li>
                 <li className="nav-item">
-                    <Link to={"/login"} className="nav-link" style={{color: '#bdd8eb'}}>
+                    <Link to={"/login"} className="nav-link" style={{color: 'white'}}>
                         Log In
                     </Link>
                 </li>
                 <li className="nav-item">
-                    <Link to={"/signup"} className="nav-link" style={{color: '#bdd8eb'}}>
+                    <Link to={"/signup"} className="nav-link" style={{color: 'white'}}>
                         Sign Up
                     </Link>
                 </li>
